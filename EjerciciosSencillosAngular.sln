@@ -7,6 +7,8 @@ Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "Ej2LetrasIdenticas", "Ej2Le
 EndProject
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "Ej1NombreYLongitud", "Ej1NombreYLongitud\Ej1NombreYLongitud.esproj", "{EDA184BB-4DF1-4172-860D-FC37535ECE22}"
 EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "Ej3FormularioColores", "Ej3FormularioColores\Ej3FormularioColores.esproj", "{0EB45852-DD9E-481E-BD10-238E72BCDBF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,12 @@ Global
 		{EDA184BB-4DF1-4172-860D-FC37535ECE22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDA184BB-4DF1-4172-860D-FC37535ECE22}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EDA184BB-4DF1-4172-860D-FC37535ECE22}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0EB45852-DD9E-481E-BD10-238E72BCDBF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB45852-DD9E-481E-BD10-238E72BCDBF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB45852-DD9E-481E-BD10-238E72BCDBF6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0EB45852-DD9E-481E-BD10-238E72BCDBF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB45852-DD9E-481E-BD10-238E72BCDBF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EB45852-DD9E-481E-BD10-238E72BCDBF6}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
