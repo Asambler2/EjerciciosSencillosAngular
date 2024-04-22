@@ -13,6 +13,8 @@ Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "Ej4FormularioCarnetConducir
 EndProject
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "Ej5CarnetNgFor", "Ej5CarnetNgFor\Ej5CarnetNgFor.esproj", "{5C040872-A777-44AC-B293-9A8A0011DF9D}"
 EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "Ej6DiasCarnet", "Ej6DiasCarnet\Ej6DiasCarnet.esproj", "{75D87F6F-6EAE-4EB3-9078-4E9D3995EDE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,12 @@ Global
 		{5C040872-A777-44AC-B293-9A8A0011DF9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C040872-A777-44AC-B293-9A8A0011DF9D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5C040872-A777-44AC-B293-9A8A0011DF9D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{75D87F6F-6EAE-4EB3-9078-4E9D3995EDE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75D87F6F-6EAE-4EB3-9078-4E9D3995EDE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75D87F6F-6EAE-4EB3-9078-4E9D3995EDE8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{75D87F6F-6EAE-4EB3-9078-4E9D3995EDE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75D87F6F-6EAE-4EB3-9078-4E9D3995EDE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75D87F6F-6EAE-4EB3-9078-4E9D3995EDE8}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
