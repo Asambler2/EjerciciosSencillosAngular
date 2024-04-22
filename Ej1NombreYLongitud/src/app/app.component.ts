@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'Ej1NombreYLongitud';
+  nombre: string = "";
+
+  devolverLength(): void {
+    this.nombre = (<HTMLInputElement>document.getElementById('nombre')).value;
+    (<HTMLInputElement>document.getElementById('resultado')).value = `${this.nombre}(${this.nombre.length})`;
+  }
 }
